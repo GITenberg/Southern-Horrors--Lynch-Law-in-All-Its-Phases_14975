@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5765
     wikipedia: http://en.wikipedia.org/wiki/Ida_B._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14975#Southern-Horrors--Lynch-Law-in-All-Its-Phases
 gutenberg_bookshelf:
 - Crime Nonfiction
 - African American Writers
