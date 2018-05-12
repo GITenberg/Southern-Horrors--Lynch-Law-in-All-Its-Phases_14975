@@ -1,0 +1,30 @@
+_repo: Southern-Horrors--Lynch-Law-in-All-Its-Phases_14975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14975-h/images/cover.png
+creator:
+  author:
+    agent_name: Wells-Barnett, Ida B.
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '5765'
+    url: http://www.gutenberg.org/2009/agents/5765
+    wikipedia: http://en.wikipedia.org/wiki/Ida_B._Wells
+description: ''
+gutenberg_bookshelf:
+- Crime Nonfiction
+- African American Writers
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Lynching'
+title: 'Southern Horrors: Lynch Law in All Its Phases'
+url: http://www.gutenberg.org/ebooks/14975
